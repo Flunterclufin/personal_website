@@ -1,0 +1,8 @@
+message_board/venv/
+message_board/__pycache__/
+message_board/db.sqlite3
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.DS_Store
