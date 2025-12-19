@@ -7,3 +7,9 @@ message_board/db.sqlite3
 *.log
 *.pot
 *.DS_Store
+*.pyc
+__pycache__/
+db.sqlite3
+.venv/
+*.log
+*.env
